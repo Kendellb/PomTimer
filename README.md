@@ -15,7 +15,7 @@ Before you can build and run PomTimer, ensure you have the following installed:
    First, clone the PomTimer repository to your local machine:
 
    ```bash
-   git clone https://github.com/<your-username>/PomTimer.git
+   git clone https://github.com/Kendellb/PomTimer.git
    ```
    
 2. Navigate to the project directory:
