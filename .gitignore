@@ -1,0 +1,4 @@
+# Ignore binary executable files created by `go build`
+*.exe
+*.out
+*.test
