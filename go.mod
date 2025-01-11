@@ -1,6 +1,6 @@
 module PomTimer/mod
 
-go 1.23
+go 1.20
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
